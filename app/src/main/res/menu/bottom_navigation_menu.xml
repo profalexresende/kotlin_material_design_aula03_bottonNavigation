@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/pagLivro"
+            android:enabled="true"
+            android:icon="@drawable/livro"
+            android:title="Livros"/>
+    <item
+            android:id="@+id/pagFilme"
+            android:enabled="true"
+            android:icon="@drawable/filme"
+            android:title="Filmes"/>
+    <item
+            android:id="@+id/pagMusica"
+            android:enabled="true"
+            android:icon="@drawable/musica"
+            android:title="Musica"/>
+</menu>
